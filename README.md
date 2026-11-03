@@ -18,7 +18,7 @@ Your agent wrote a plan, a spec, or a diff. Open it in the terminal or browser, 
 Requires a recent stable Rust toolchain (verified with 1.99).
 
 ```sh
-cargo install --locked --git https://github.com/marcel290820/review
+cargo install --locked --git https://github.com/marcelheidebrecht/review
 ```
 
 Or build from a clone with `cargo build --locked --release`; the binary lands in `target/release/review`.
